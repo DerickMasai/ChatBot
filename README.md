@@ -1,4 +1,4 @@
-# 🤖 ChatBot
+# 🤖 ChatBot v1.0
 
 <img src="https://chatbot.derickmasai.com/src/img/github-screenshot.png">
 
