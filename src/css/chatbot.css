@@ -1,0 +1,49 @@
+.message {
+  max-width: 85%;
+}
+.text-blue-400 {
+  color: #006CFF;
+  fill: #006CFF;
+}
+.bg-blue-400 {
+  background: #006CFF;
+}
+.border.blue-400 {
+  border-color: #006CFF;
+}
+.text-brown-african {
+  color: #D6B640;
+}
+.bg-brown-african {
+  background: #D6B640;
+}
+.text-green-dm {
+  color: rgb(9, 235, 175);
+}
+.bg-green-dm {
+  background: rgb(9, 235, 175);
+}
+.border-green-dm {
+  border-color: rgb(9, 235, 175);
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #D1D1D1;
+  border-radius: 100px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #006CFF;
+}
+@keyframes pulsateAnim {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1.5);
+  }
+}
