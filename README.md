@@ -1,6 +1,6 @@
 # 🤖 ChatBot v1.0
 
-<img src="https://chatbot.derickmasai.com/src/img/github-chatapp.png">
+<img src="https://derickmasai.com/src/img/portfolio/github-chatapp.png">
 
 ChatBot is a fully open-source easy-to-install bot that is designed to handle the common day-to-day inquiries a business' customers may have so it's support team can handle the more involved challenges their clients are experiencing.
 
